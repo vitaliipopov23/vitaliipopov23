@@ -1,16 +1,13 @@
-## Hi there 👋
+### Vitalii Popov
+#### Android developer
 
-<!--
-**vitaliipopov23/vitaliipopov23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin.com/in/vitaliipopov23](https://www.linkedin.com/in/vitaliipopov23/) | [+7(747)450-21-48](tel:+77474502148) | [vitaliipopov23@gmail.com](mailto:vitaliipopov23@gmail.com)
 
-Here are some ideas to get you started:
+[Download my CV](https://github.com/vitaliipopov23/vitaliipopov23/blob/main/Android_Popov_Vitalii_CV.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*5+ years of Android development experience primarily in the fintech sector using Kotlin and Java.
+*Developed apps with millions of users, including two top-performing market leaders.
+*Led a team of three developers, managing projects from concept to delivery.
+*Passionate about blending precise technologies and enhancing UX to simplify tasks and improve users' lives.
+
+Skills: Kotlin, Compose, Coroutines, Flow, RxJava, Clean Architecture, MVVM, MVI, CD/CD
