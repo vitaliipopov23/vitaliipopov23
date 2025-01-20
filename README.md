@@ -1,7 +1,7 @@
 ### Vitalii Popov
 #### Android developer
 
-[linkedin.com/in/vitaliipopov23](https://www.linkedin.com/in/vitaliipopov23/) | [+7(747)450-21-48](tel:+77474502148) | [vitaliipopov23@gmail.com](mailto:vitaliipopov23@gmail.com)
+[linkedin.com/in/vitaliipopov23](https://www.linkedin.com/in/vitaliipopov23/) | [+7(747)450-21-48](wa.me/+77474502148) | [vitaliipopov23@gmail.com](mailto:vitaliipopov23@gmail.com)
 
 [Download my CV](https://github.com/vitaliipopov23/vitaliipopov23/blob/main/Android_Popov_Vitalii_CV.pdf)
 
